@@ -9,7 +9,7 @@ package com.cofingbat.warmup1;
  * sleepIn(false, true) → true
  */
 public class sleepIn {
-    public static boolean sleepIn(boolean weekday, boolean vacation) {
+    public boolean sleepIn(boolean weekday, boolean vacation) {
         return vacation || !weekday;
     }
 }
