@@ -1,4 +1,4 @@
-package com.cofingbat.warmup1;
+package com.codingbat.warmup1;
 
 /**
  * Given an int n, return true if it is within 10 of 100 or 200. Note: Math.abs(num) computes the absolute value of a number.

@@ -1,4 +1,4 @@
-package com.cofingbat.warmup1;
+package com.codingbat.warmup1;
 
 /**
  * Given a non-empty string and an int N, return the string made starting with char 0, and then every Nth char of the string.

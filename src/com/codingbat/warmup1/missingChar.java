@@ -1,4 +1,4 @@
-package com.cofingbat.warmup1;
+package com.codingbat.warmup1;
 
 /**
  * Given a non-empty string and an int n, return a new string where the char at index n has been removed.

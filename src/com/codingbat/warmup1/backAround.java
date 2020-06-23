@@ -1,4 +1,4 @@
-package com.cofingbat.warmup1;
+package com.codingbat.warmup1;
 
 /**
  * Given a string, take the last char and return a new string with the last char added at the front and back, so "cat" yields "tcatt".

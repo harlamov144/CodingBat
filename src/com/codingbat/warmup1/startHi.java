@@ -1,4 +1,4 @@
-package com.cofingbat.warmup1;
+package com.codingbat.warmup1;
 
 /**
  * Given a string, return true if the string starts with "hi" and false otherwise.

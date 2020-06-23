@@ -1,4 +1,4 @@
-package com.cofingbat.warmup1;
+package com.codingbat.warmup1;
 
 /**
  *  Return true if the given string begins with "mix", except the 'm' can be anything, so "pix", "9ix" .. all count.
