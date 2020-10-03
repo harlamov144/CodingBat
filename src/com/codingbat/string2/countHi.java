@@ -15,4 +15,22 @@ public class countHi {
         }
         return count;
     }
+
+    public int countHiOldSolution(String str) {
+        if(str.length() <= 1 ) return 0;
+        int count = 0;
+
+        while(true){
+            int i = str.indexOf("hi");
+            if(i != -1){
+                count++;
+            }else{
+                break;
+            }
+
+            str = str.substring(i+2, str.length());
+        }
+
+        return count;
+    }
 }

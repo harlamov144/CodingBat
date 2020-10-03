@@ -15,4 +15,15 @@ public class doubleChar {
         }
         return res.toString();
     }
+
+    public String doubleCharOldSolution(String str) {
+        char[] mas = str.toCharArray();
+        StringBuilder res = new StringBuilder();;
+        for(int i = 0; i < str.length(); i++){
+            res = res.append(mas[i]);
+            res = res.append(mas[i]);
+        }
+
+        return res.toString();
+    }
 }
